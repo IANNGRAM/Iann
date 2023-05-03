@@ -1,0 +1,49 @@
+body{
+	background:linear-gradient(to left,green,blue,red);
+	height: 100%;
+}
+.container{
+	text-align: center;
+	top: 200px;
+	position: relative;
+}
+#dialogoverlay{
+	text-align: center;
+	top: 230px;
+	position: relative;
+}
+.gamediv h1{
+    font-family:cursive;
+    color:white;
+	font-weight:900000000;
+}
+.flex {
+	display: flex;
+	position: relative;
+	left:510px;
+	width: 300px;
+	height: 40px;
+	border-radius: 20px;
+	background-color: wheat;
+}
+.button{
+	height: 40px;
+	left: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	top: 0px;
+	background-color: wheat;
+	border: none;
+	outline: none;
+	border-left: 1px solid ;
+	position: relative;
+}
+#txtNumber{
+	left: 10px;
+	top: 10px;
+	font-size: 15px;
+	border: none;
+	outline: none;
+	background-color: wheat;
+	position: relative;
+}
